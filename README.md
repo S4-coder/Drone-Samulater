@@ -43,12 +43,6 @@ It allows users to:
 - 🧱 Object-Oriented Programming (OOP)
 
 ---
-Drone-Samulater/
-│
-├── Drone.py              # Core drone simulation logic
-├── requirements.txt      # Project dependencies
-
----
 
 ## 📥 Installation & Setup
 
@@ -59,4 +53,18 @@ Drone-Samulater/
 ```bash
 git clone https://github.com/S4-coder/Drone-Samulater.git
 cd Drone-Samulater
+```
+from Drone import Drone
+
+# Create drone instance
+drone = Drone()
+
+# Simulated flight
+drone.take_off()
+drone.move_forward(10)
+drone.move_up(5)
+drone.rotate(90)
+drone.move_backward(5)
+drone.land()
+
 ---
