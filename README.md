@@ -45,4 +45,6 @@ It allows users to:
 ---
 
 ## 📂 Project Structure
-
+Drone-Samulater/
+├── Drone.py # Core drone simulation logic
+├── README.md # Project documentati
