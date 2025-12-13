@@ -43,13 +43,10 @@ It allows users to:
 - 🧱 Object-Oriented Programming (OOP)
 
 ---
-
-## 📂 Project Structure
 Drone-Samulater/
-|
-├── Drone.py # Core drone simulation logic
-├── README.md # Project documentati
-
+│
+├── Drone.py              # Core drone simulation logic
+├── requirements.txt      # Project dependencies
 
 ---
 
