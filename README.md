@@ -60,18 +60,5 @@ Drone-Samulater/
 ### 🔹 Clone the Repository
 ```bash
 git clone https://github.com/S4-coder/Drone-Samulater.git
-cd Drone-Samulater
+cd Drone-Samulater```
 
-▶️ Usage Example
-from Drone import Drone
-
- Create drone instance
-drone = Drone()
-
-# Simulated flight
-drone.take_off()
-drone.move_forward(10)
-drone.move_up(5)
-drone.rotate(90)
-drone.move_backward(5)
-drone.land()
