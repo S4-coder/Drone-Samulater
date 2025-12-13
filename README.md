@@ -46,6 +46,7 @@ It allows users to:
 
 ## 📂 Project Structure
 Drone-Samulater/
+|
 ├── Drone.py # Core drone simulation logic
 ├── README.md # Project documentati
 
@@ -60,5 +61,5 @@ Drone-Samulater/
 ### 🔹 Clone the Repository
 ```bash
 git clone https://github.com/S4-coder/Drone-Samulater.git
-cd Drone-Samulater```
-
+cd Drone-Samulater
+---
