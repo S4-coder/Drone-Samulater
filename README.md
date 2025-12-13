@@ -48,3 +48,17 @@ It allows users to:
 Drone-Samulater/
 ├── Drone.py # Core drone simulation logic
 ├── README.md # Project documentati
+
+
+---
+
+## 📥 Installation & Setup
+
+### 🔹 Prerequisites
+- Python **3.9 or above**
+
+### 🔹 Clone the Repository
+```bash
+git clone https://github.com/S4-coder/Drone-Samulater.git
+cd Drone-Samulater
+
